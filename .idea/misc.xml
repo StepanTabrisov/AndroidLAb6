@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/lab5/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.174" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/lab5/app/src/main/res/drawable/btn.xml" value="0.174" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/lab5/app/src/main/res/drawable/btn_styles.xml" value="0.174" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/lab5/app/src/main/res/drawable/gradient.xml" value="0.174" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/lab5/app/src/main/res/drawable/ic_launcher_background.xml" value="0.174" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/lab5/app/src/main/res/drawable/userIcon_background.xml" value="0.174" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/lab5/app/src/main/res/drawable/userIcon_foreground.xml" value="0.174" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/lab5/app/src/main/res/layout/enter_scene.xml" value="0.264" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/lab5/app/src/main/res/layout/init_scene.xml" value="0.4" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/lab5/app/src/main/res/layout/main_scene.xml" value="0.4" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/lab5/app/src/main/res/layout/reg_scene.xml" value="0.264" />
+        <entry key="..\:/Users/stepa/AndroidStudioProjects/lab5/app/src/main/res/mipmap-anydpi-v26/userIcon.xml" value="0.174" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
